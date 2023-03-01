@@ -1,0 +1,6 @@
+I like the output in lines 15 and 32 of grade.sh 
+
+It doesn't look like there are any existing bugs or logic errors. 
+
+Things I learned: 
+- using the bash and operator for boolean operations 
